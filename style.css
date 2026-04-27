@@ -1,0 +1,56 @@
+body {
+    font-family: Arial;
+    margin: 0;
+    background-color: #f4f4f4;
+}
+
+/* Header */
+header {
+    background: darkgreen;
+    color: white;
+    text-align: center;
+    padding: 15px;
+}
+
+/* Navigation */
+nav {
+    background: black;
+    padding: 10px;
+    text-align: center;
+}
+
+nav a {
+    color: white;
+    margin: 10px;
+    text-decoration: none;
+}
+
+/* Main */
+main {
+    padding: 20px;
+}
+
+/* Sections */
+section {
+    margin-bottom: 20px;
+}
+
+/* Footer */
+footer {
+    background: darkgreen;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+
+/* Form */
+input, textarea {
+    width: 200px;
+}
+
+button {
+    background: green;
+    color: white;
+    border: none;
+    padding: 8px;
+}
